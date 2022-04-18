@@ -4,3 +4,5 @@ I am a git beginner!
 I am a git beginner!
 =======
 >>>>>>> test
+
+:)
